@@ -2,11 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-DemoApplication<demo>",
+            "name": "Spring Boot-GreenbyteApplication<greenbyte>",
             "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "mainClass": "com.example.demo.DemoApplication",
-            "projectName": "demo",
+            "cwd": "${workspaceFolder}/greenbyte",
+            "mainClass": "com.example.greenbyte.GreenbyteApplication",
+            "projectName": "greenbyte",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
